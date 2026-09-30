@@ -1,1 +1,28 @@
-# Vinicius-hub8-readme
+ Olá, eu sou o Vinícius Amaral 
+
+Estudante de tecnologia na **ATITUS**, com foco em **desenvolvimento backend, bancos de dados (SQL) e qualidade de software (QA)**.
+Gosto de entender como um sistema funciona por dentro e de garantir que ele continue funcionando depois de cada mudança.
+
+---
+
+##  Tecnologias
+
+**Backend:** Java · Spring Boot · JWT · POO e arquitetura em camadas (Controller / Service / Repository)
+**Banco de dados:** PostgreSQL · SQL
+**Frontend:** JavaScript · React · HTML
+**Dados:** Python · pandas · Google Colab
+**Ferramentas:** Git · GitHub · Docker · Render
+
+## Projetos em destaque
+
+| Projeto | Descrição |
+|---|---|
+| [**Foodgo**](https://github.com/Vinicius-hub8/Foodgo) | Aplicação de localização de comida com mapa (React + Google Maps) |
+| [**foodgo-backend**](https://github.com/Vinicius-hub8/foodgo-backend) | API do FoodGo com Spring Boot, PostgreSQL e autenticação JWT, publicada no Render |
+| [**foodgo-qa**](https://github.com/Vinicius-hub8/foodgo-qa) | Testes do FoodGo: *(descreva aqui o que é testado e com quais ferramentas)* |
+| [**site_Vinicius**](https://github.com/Vinicius-hub8/site_Vinicius) | Meu site, feito em HTML |
+
+## 📫 Contato
+
+- LinkedIn: [Vinícius Amaral de Oliveira](https://www.linkedin.com/in/vin%C3%ADcius-amaral-de-oliveira-05098935b/)
+- GitHub: [@Vinicius-hub8](https://github.com/Vinicius-hub8)s-hub8-readme
