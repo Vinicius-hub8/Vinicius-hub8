@@ -19,7 +19,7 @@ Gosto de entender como um sistema funciona por dentro e de garantir que ele cont
 |---|---|
 | [**Foodgo**](https://github.com/Vinicius-hub8/Foodgo) | Aplicação de localização de comida com mapa (React + Google Maps) |
 | [**foodgo-backend**](https://github.com/Vinicius-hub8/foodgo-backend) | API do FoodGo com Spring Boot, PostgreSQL e autenticação JWT, publicada no Render |
-| [**foodgo-qa**](https://github.com/Vinicius-hub8/foodgo-qa) | Testes do FoodGo: *(descreva aqui o que é testado e com quais ferramentas)* |
+| [**foodgo-qa**](https://github.com/Vinicius-hub8/foodgo-qa) | Suíte de testes do FoodGo: plano e casos de teste, bugs documentados, testes unitários (JUnit 5 + Mockito), de API (REST Assured), coleção Postman e E2E (Cypress)
 | [**site_Vinicius**](https://github.com/Vinicius-hub8/site_Vinicius) | Meu site, feito em HTML |
 
 ## 📫 Contato
